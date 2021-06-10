@@ -1,0 +1,1 @@
+web: gunicorn cadastrovagas.wsgi --log-file -
